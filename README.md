@@ -1,6 +1,7 @@
 > [!WARNING]  
-> This package is discontinued and will only receive critical security updates.\
-> Please use the new official [PHP Content API Client](https://github.com/storyblok/php-content-api-client).
+> This is a fork of the old official Storyblok PHP Client which is now deprecated and will only receive critical security updates.\
+> This fork is maintained by the community and is not officially supported by Storyblok.\
+> See the new official [PHP Content API Client](https://github.com/storyblok/php-content-api-client).
 
 <div style="text-align:center">
 	<a  href="https://www.storyblok.com?utm_source=github.com&utm_medium=readme&utm_campaign=php-client"  align="center">

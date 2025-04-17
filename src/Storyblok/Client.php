@@ -1107,8 +1107,8 @@ class Client extends BaseClient
         $data['_stopResolving'] = true;
     }
 
-    private function isStopResolving($level)
+    protected function isStopResolving($level)
     {
-        return $level > 4;
+        return $level > 20;
     }
 }

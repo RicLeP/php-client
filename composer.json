@@ -1,7 +1,6 @@
 {
-    "name": "storyblok/php-client",
-    "description": "Storyblok Client to easily call the publishing api",
-    "abandoned": "storyblok/php-content-api-client",
+    "name": "riclep/storyblok-php-client",
+    "description": "Fork of the Storyblok PHP Client to easily call the publishing api",
     "type": "library",
     "keywords": ["storyblok", "api", "integration", "cms"],
     "license": "MIT",
@@ -28,6 +27,10 @@
         {
             "name": "Dominik Angerer",
             "email": "dominikangerer1@gmail.com"
+        },
+        {
+            "name": "Ric Le Poidecin",
+            "email": "ric@sirric.co.uk"
         }
     ],
     "autoload": {
